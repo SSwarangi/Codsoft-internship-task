@@ -1,3 +1,3 @@
 # Codsoft-internship-task
-repository for tasks
-Author-swarangi nandanwar
+Repository for tasks.
+Author-Swarangi Nandanwar
